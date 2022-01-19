@@ -2,6 +2,8 @@
 
 [Squoosh] is an image compression web app that reduces image sizes through numerous formats.
 
+***This version supports JXL v0.6.1, however due to the modifications to the build process, it should support revisions into the future.***
+
 # API & CLI
 
 Squoosh has [an API](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh) and [a CLI](https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli) to compress many images at once.
