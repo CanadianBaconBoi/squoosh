@@ -2,7 +2,7 @@
 
 [Squoosh] is an image compression web app that reduces image sizes through numerous formats.
 
-***This version supports LibJXL v0.6.1.***
+***This version supports LibJXL rev.9f544641ec83f6abd9da598bdd08178ee8a003e0, however due to the modifications to the build process, it should support revisions into the future.***
 
 # API & CLI
 
